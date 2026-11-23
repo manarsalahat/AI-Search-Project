@@ -1,7 +1,11 @@
 # AI Search Project
 
 A React + Vite web application for finding and comparing routes between cities on a road map using classical AI search algorithms.
+## Team Members
 
+- Manar Salahat — 12428251
+- Manwa Haidariyah — 12428257
+- Yaqeen Ashour — 
 ## Running the Project
 
 Requires Node.js (v18 or newer).
