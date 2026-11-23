@@ -1,4 +1,3 @@
-// Helper functions for building the road graph, computing h(n), and validating map JSON
 
 export function compareAlpha(a, b) {
   if (a < b) return -1;
